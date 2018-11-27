@@ -1,6 +1,6 @@
-# Skeptial: A tool for spatial query via Sketch (Group Engineering Project)
+# Skeptial: A tool for spatial query via Sketch
 
-Back-end Support for Skeptial.
+Back-end Support for Skeptial, A tool for spatial query via Sketch (Group Engineering Project)
 
 ## Architecture
 
