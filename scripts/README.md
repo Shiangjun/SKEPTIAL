@@ -33,9 +33,10 @@ This script functioned to transfer Csv to Shapfile, I would recommend u to start
 
   - Usage: csv2shp.py [options] inputFile [optional output filename]
 
-    Options:
-      -h, --help     show this help message and exit
-      --lat=LAT_COL  latitude column name
-      --lng=LNG_COL  longitude column name
-      -j, --geojson  default to geojson output
-    Converts an input tsv/csv to a shapefile/geojson. Requires an input file with the first row being headers.
+    Options:<br>
+      -h, --help     show this help message and exit<br>
+      --lat=LAT_COL  latitude column name<br>
+      --lng=LNG_COL  longitude column name<br>
+      -j, --geojson  default to geojson output<br>
+    Converts an input tsv/csv to a shapefile/geojson.<br> 
+    Requires an input file with the first row being headers.<br>
