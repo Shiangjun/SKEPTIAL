@@ -2,6 +2,8 @@
 
 Back-end Support for Skeptial.
 
+![Architecture]()
+
 ## Group Software Project - A tool for spatial query via Sketch
 
 ## Interface
@@ -17,4 +19,7 @@ Back-end Support for Skeptial.
   - SketchImage
   - Scripts
   
-If u have any questinos, please feel free to contact me.
+## Wait to Determine
+
+  - Final work flow versions
+  - "build.sh"
