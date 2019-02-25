@@ -2,6 +2,10 @@
 
 Back-end Support for Skeptial, A tool for spatial query via Sketch (Group Engineering Project)
 
+## News
+
+### 2018.2.26) Now Skeptial's test version is online in "install/", Have Fun!
+
 ## Architecture
 
 ![Architecture](https://github.com/Shiangjun/Skeptial/blob/master/doc/img/arch-skeptial.png)
