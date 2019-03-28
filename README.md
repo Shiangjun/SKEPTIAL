@@ -1,30 +1,16 @@
-# Skeptial: A tool for spatial query via Sketch
+# SKEPTIAL: An Android Application to Enable Spatial-Query-by-Sketches
 
-Back-end Support for Skeptial, A tool for spatial query via Sketch (Group Engineering Project)
+## Introduction
+  Spatial Query is widely used in GIS applciations. However, Spatial Query is hard to apply, since the complexity of usages. In this project, we implemented an mobile application to enable users to draw sketches for spatial query. Further, we emerged GeoSpark to enable high-performance back end support.
 
 ## News
 
-### 2018.2.26) Now Skeptial's test version is online in "install/", Have Fun!
+ 2018.2.26) Now Skeptial's test version is online in "install/", Have Fun!
 
-## Architecture
+## Demo
 
-![Architecture](https://github.com/Shiangjun/Skeptial/blob/master/doc/img/arch-skeptial.png)
+  Prototype, to demonstrate work flow, is available at [here](https://xd.adobe.com/view/27852602-427d-4763-6a24-3295f9d84f53-51b4/?fullscreen).
 
+## Contact
 
-## Interface
-
-  Prototype is available at [here](https://xd.adobe.com/view/27852602-427d-4763-6a24-3295f9d84f53-51b4/?fullscreen).
-  
-## Workflow
-
-  Would update later
-  
-## Existing functionality
-
-  - SketchImage
-  - Scripts
-  
-## Wait to Determine
-
-  - Final work flow versions
-  - "build.sh"
+[Email](tomail:zy22056@nottingham.edu.cn)
