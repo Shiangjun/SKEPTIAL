@@ -1,4 +1,6 @@
-# SKEPTIAL: An Android Application to Enable Spatial-Query-by-Sketches
+# SKEPTIAL
+
+An Android Application to Enable Spatial-Query-by-Sketches
 
 ## Introduction
   Spatial Query is widely used in GIS applciations. However, Spatial Query is hard to apply, since the complexity of usages. In this project, we implemented an mobile application to enable users to draw sketches for spatial query. Further, we emerged GeoSpark to enable high-performance back end support.
